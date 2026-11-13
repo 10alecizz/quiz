@@ -1,0 +1,337 @@
+{
+ "titulo": "Campeones y lore",
+ "descripcion": "Conoce a los campeones y sus historias",
+ "preguntas": [
+  {
+   "q": "¿Qué título tiene Ahri?",
+   "o": [
+    "La Zorro de Nueve Colas",
+    "La Dama de la Luminosidad",
+    "La Hoja Siniestra",
+    "La Cazadora de la Noche"
+   ],
+   "a": 0,
+   "h": "Es de Ionia y tiene varias colas"
+  },
+  {
+   "q": "¿De qué región es Jinx?",
+   "o": [
+    "Piltover",
+    "Zaun",
+    "Noxus"
+   ],
+   "a": 1,
+   "h": "La ciudad de los bajos fondos"
+  },
+  {
+   "q": "¿De qué ciudad es Caitlyn, la sheriff?",
+   "o": [
+    "Zaun",
+    "Piltover",
+    "Bandle City",
+    "Ixtal"
+   ],
+   "a": 1,
+   "h": "Ciudad del progreso"
+  },
+  {
+   "q": "¿Qué campeón coloca setas venenosas por el mapa?",
+   "o": [
+    "Veigar",
+    "Heimerdinger",
+    "Teemo",
+    "Ziggs"
+   ],
+   "a": 2,
+   "h": "Es un yordle explorador"
+  },
+  {
+   "q": "¿Qué campeón recibe el título de 'El Imperdonable'?",
+   "o": [
+    "Zed",
+    "Yasuo",
+    "Lee Sin",
+    "Fizz"
+   ],
+   "a": 1,
+   "h": "Usa un muro de viento"
+  },
+  {
+   "q": "¿Quién es la hermana de Garen Crownguard?",
+   "o": [
+    "Quinn",
+    "Fiora",
+    "Lux",
+    "Vayne"
+   ],
+   "a": 2,
+   "h": "Dama de la Luminosidad"
+  },
+  {
+   "q": "¿Quién es el hermano de Darius?",
+   "o": [
+    "Draven",
+    "Swain",
+    "Talon",
+    "Sion"
+   ],
+   "a": 0,
+   "h": "Es el Glorioso Verdugo"
+  },
+  {
+   "q": "¿Qué campeón es 'El Chico que Destrozó el Tiempo'?",
+   "o": [
+    "Zilean",
+    "Heimerdinger",
+    "Ekko",
+    "Camille"
+   ],
+   "a": 2,
+   "h": "Es de Zaun"
+  },
+  {
+   "q": "¿Qué campeón es conocido como 'El Monje Ciego'?",
+   "o": [
+    "Shen",
+    "Lee Sin",
+    "Wukong",
+    "Master Yi"
+   ],
+   "a": 1,
+   "h": "Su patada es famosa"
+  },
+  {
+   "q": "¿Qué campeón es 'El Guardián de las Cadenas'?",
+   "o": [
+    "Mordekaiser",
+    "Nautilus",
+    "Thresh",
+    "Karthus"
+   ],
+   "a": 2,
+   "h": "Usa una linterna y una guadaña"
+  },
+  {
+   "q": "¿Qué ascendido con cabeza de chacal es el 'Curador de las Arenas'?",
+   "o": [
+    "Renekton",
+    "Azir",
+    "Nasus",
+    "Xerath",
+    "Amumu"
+   ],
+   "a": 2,
+   "h": "Su Q mejora con cada súbdito"
+  },
+  {
+   "q": "¿Cuál de estos campeones NO es un yordle?",
+   "o": [
+    "Teemo",
+    "Tristana",
+    "Lulu",
+    "Garen"
+   ],
+   "a": 3,
+   "h": "Es un humano de Demacia"
+  },
+  {
+   "q": "¿De qué región es la arquera Ashe?",
+   "o": [
+    "Freljord",
+    "Targon",
+    "Ionia",
+    "Shurima",
+    "Bilgewater"
+   ],
+   "a": 0,
+   "h": "Una tierra helada"
+  },
+  {
+   "q": "¿Qué golem de vapor de Zaun atrae enemigos con un puño cohete?",
+   "o": [
+    "Viktor",
+    "Rammus",
+    "Blitzcrank",
+    "Urgot"
+   ],
+   "a": 2,
+   "h": "Es un robot soporte"
+  },
+  {
+   "q": "¿Qué campeona es 'La Dama de la Luminosidad'?",
+   "o": [
+    "Janna",
+    "Lux",
+    "Soraka",
+    "Seraphine"
+   ],
+   "a": 1,
+   "h": "Hermana de Garen"
+  },
+  {
+   "q": "¿Quién es 'El Maestro de las Sombras'?",
+   "o": [
+    "Zed",
+    "Shen",
+    "Talon",
+    "Akali"
+   ],
+   "a": 0,
+   "h": "Líder de la Orden de las Sombras"
+  },
+  {
+   "q": "¿Cómo se llama el oso de peluche de Annie?",
+   "o": [
+    "Bristle",
+    "Tibbers",
+    "Gromp",
+    "Grumpy"
+   ],
+   "a": 1,
+   "h": "Se invoca con su definitiva"
+  },
+  {
+   "q": "¿Qué campeón es 'La Ira Desatada de Zaun'?",
+   "o": [
+    "Volibear",
+    "Warwick",
+    "Nasus",
+    "Gnar"
+   ],
+   "a": 1,
+   "h": "Es un hombre lobo creado con experimentos"
+  },
+  {
+   "q": "¿Qué campeona cabalga a un jabalí llamado Bristle?",
+   "o": [
+    "Sejuani",
+    "Ashe",
+    "Lissandra",
+    "Braum"
+   ],
+   "a": 0,
+   "h": "Es de Freljord"
+  },
+  {
+   "q": "¿Cuál de estos campeones NO es de Targon?",
+   "o": [
+    "Leona",
+    "Diana",
+    "Soraka",
+    "Ashe"
+   ],
+   "a": 3,
+   "h": "Viene del hielo"
+  },
+  {
+   "q": "¿Quién es 'El Explorador Pródigo'?",
+   "o": [
+    "Graves",
+    "Jayce",
+    "Ezreal",
+    "Corki"
+   ],
+   "a": 2,
+   "h": "Lanza un Disparo místico"
+  },
+  {
+   "q": "¿Quién es 'El Embaucador de las Mareas'?",
+   "o": [
+    "Nami",
+    "Fizz",
+    "Nautilus",
+    "Nidalee"
+   ],
+   "a": 1,
+   "h": "Un pequeño pez yordle"
+  },
+  {
+   "q": "¿Cuál es el título de Katarina?",
+   "o": [
+    "La Mano Plateada",
+    "La Hoja Siniestra",
+    "La Doncella de Acero",
+    "La Viuda Negra"
+   ],
+   "a": 1,
+   "h": "Pertenece a Noxus"
+  },
+  {
+   "q": "¿Qué campeón es 'El Espadachín Wuju'?",
+   "o": [
+    "Yasuo",
+    "Irelia",
+    "Master Yi",
+    "Jax"
+   ],
+   "a": 2,
+   "h": "Estilo Wuju"
+  },
+  {
+   "q": "¿Qué campeona es mitad dragón?",
+   "o": [
+    "Shyvana",
+    "Kayle",
+    "Illaoi",
+    "Rell"
+   ],
+   "a": 0,
+   "h": "Puede transformarse en dragón"
+  },
+  {
+   "q": "¿Qué campeona es 'La Cazadora de la Noche'?",
+   "o": [
+    "Quinn",
+    "Kalista",
+    "Sivir",
+    "Vayne"
+   ],
+   "a": 3,
+   "h": "Usa ballestas y Vuelta Mortal"
+  },
+  {
+   "q": "¿Qué campeón es 'El Defensor del Mañana'?",
+   "o": [
+    "Jayce",
+    "Viktor",
+    "Orianna",
+    "Vi"
+   ],
+   "a": 0,
+   "h": "Cambia entre martillo y cañón"
+  },
+  {
+   "q": "¿Quién es 'El Glorioso Verdugo'?",
+   "o": [
+    "Darius",
+    "Draven",
+    "Samira",
+    "Pyke"
+   ],
+   "a": 1,
+   "h": "Lanza hachas giratorias"
+  },
+  {
+   "q": "¿Qué campeona es 'La Hija de las Estrellas'?",
+   "o": [
+    "Soraka",
+    "Taric",
+    "Lulu",
+    "Karma"
+   ],
+   "a": 0,
+   "h": "Es una soporte curandera"
+  },
+  {
+   "q": "¿Qué campeón es 'El Fragmento del Monolito'?",
+   "o": [
+    "Taric",
+    "Skarner",
+    "Malphite",
+    "Rammus"
+   ],
+   "a": 2,
+   "h": "Es una roca gigante"
+  }
+ ]
+}

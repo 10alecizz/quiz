@@ -1,0 +1,335 @@
+{
+ "titulo": "Grieta del Invocador",
+ "descripcion": "Mecánicas, objetivos y vocabulario",
+ "preguntas": [
+  {
+   "q": "¿Cuántos jugadores tiene cada equipo en la Grieta del Invocador?",
+   "o": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "a": 2,
+   "h": "Top, jungla, mid, ADC y soporte"
+  },
+  {
+   "q": "¿Cuántas líneas tiene la Grieta del Invocador?",
+   "o": [
+    "2",
+    "3",
+    "4"
+   ],
+   "a": 1,
+   "h": "Top, mid y bot"
+  },
+  {
+   "q": "¿Qué estructura hay que destruir para ganar la partida?",
+   "o": [
+    "El Inhibidor",
+    "La torre exterior",
+    "El Nexo",
+    "El Barón"
+   ],
+   "a": 2,
+   "h": "Está en el centro de la base"
+  },
+  {
+   "q": "¿Qué significa CS?",
+   "o": [
+    "Control de masas",
+    "Creep Score (súbditos eliminados)",
+    "Campeón Supremo",
+    "Cooldown Simple"
+   ],
+   "a": 1,
+   "h": "Cuenta los súbditos que matas"
+  },
+  {
+   "q": "¿Qué significa KDA?",
+   "o": [
+    "Kills / Deaths / Assists",
+    "Kills / Damage / Armor",
+    "Kill Day Alert",
+    "Kingdom Defense Army"
+   ],
+   "a": 0,
+   "h": "Bajas, muertes y asistencias"
+  },
+  {
+   "q": "¿Qué significa CC en el juego?",
+   "o": [
+    "Combo Crítico",
+    "Control de masas",
+    "Cooldown Corto",
+    "Campeón Controlado"
+   ],
+   "a": 1,
+   "h": "Aturdimientos, ralentizaciones..."
+  },
+  {
+   "q": "¿Qué significa AP?",
+   "o": [
+    "Armor Penetration",
+    "Ability Power (poder de habilidad)",
+    "Attack Power",
+    "Area Protection"
+   ],
+   "a": 1,
+   "h": "Lo usan los magos"
+  },
+  {
+   "q": "¿Qué significa ADC?",
+   "o": [
+    "Attack Damage Carry",
+    "Ability Damage Control",
+    "Armor Defense Champion",
+    "Area Damage Caster"
+   ],
+   "a": 0,
+   "h": "Tirador de la línea inferior"
+  },
+  {
+   "q": "¿Qué significa AFK?",
+   "o": [
+    "Always For Kills",
+    "Away From Keyboard",
+    "Attack From Keep",
+    "Assist For Kill"
+   ],
+   "a": 1,
+   "h": "Un jugador que no está jugando"
+  },
+  {
+   "q": "¿Qué significa ARAM?",
+   "o": [
+    "All Random All Mid",
+    "Always Random Ability Mode",
+    "Attack Rush And Move",
+    "All Rounds All Matches"
+   ],
+   "a": 0,
+   "h": "Modo de una sola línea"
+  },
+  {
+   "q": "¿Cuántas líneas tiene el mapa de ARAM?",
+   "o": [
+    "1",
+    "2",
+    "3"
+   ],
+   "a": 0,
+   "h": "Es una sola"
+  },
+  {
+   "q": "¿Cuál es el nivel máximo de un campeón en una partida?",
+   "o": [
+    "15",
+    "16",
+    "18",
+    "20"
+   ],
+   "a": 2,
+   "h": "Se logra con experiencia"
+  },
+  {
+   "q": "¿Qué moneda se usa para comprar objetos?",
+   "o": [
+    "Esencia Azul",
+    "Oro",
+    "Puntos de Riot",
+    "Fragmentos"
+   ],
+   "a": 1,
+   "h": "Se consigue con súbditos y asesinatos"
+  },
+  {
+   "q": "¿Para qué sirve un guardián (ward)?",
+   "o": [
+    "Curar aliados",
+    "Dar visión del mapa",
+    "Aumentar el oro",
+    "Invocar súbditos"
+   ],
+   "a": 1,
+   "h": "Revela zonas oscuras"
+  },
+  {
+   "q": "¿Qué es un 'gank'?",
+   "o": [
+    "Una emboscada a sorpresa a una línea",
+    "Una compra de objetos",
+    "Un hechizo de invocador",
+    "Un tipo de monstruo"
+   ],
+   "a": 0,
+   "h": "Lo hace sobre todo el jungla"
+  },
+  {
+   "q": "¿Qué rol recorre el bosque matando monstruos neutrales?",
+   "o": [
+    "Soporte",
+    "Jungla",
+    "Top",
+    "ADC"
+   ],
+   "a": 1,
+   "h": "No está en ninguna línea"
+  },
+  {
+   "q": "¿Qué rol acompaña normalmente al ADC en la línea inferior?",
+   "o": [
+    "Jungla",
+    "Mid",
+    "Soporte",
+    "Top"
+   ],
+   "a": 2,
+   "h": "Pone guardianes y protege"
+  },
+  {
+   "q": "¿Qué hechizo de invocador teletransporta a corta distancia?",
+   "o": [
+    "Destello",
+    "Curar",
+    "Fantasma",
+    "Agotar",
+    "Castigo"
+   ],
+   "a": 0,
+   "h": "En inglés es Flash"
+  },
+  {
+   "q": "¿Qué hechizo de invocador usa el jungla para matar monstruos?",
+   "o": [
+    "Barrera",
+    "Castigo",
+    "Prender",
+    "Limpiar"
+   ],
+   "a": 1,
+   "h": "Hace daño fijo a monstruos"
+  },
+  {
+   "q": "¿Qué buff otorga el monstruo azul?",
+   "o": [
+    "Más daño crítico",
+    "Maná y reducción de enfriamiento",
+    "Más vida máxima",
+    "Velocidad de movimiento"
+   ],
+   "a": 1,
+   "h": "Muy útil para los magos"
+  },
+  {
+   "q": "¿Qué monstruo épico da el buff 'Mano del Barón'?",
+   "o": [
+    "Dragón",
+    "Heraldo de la Grieta",
+    "Barón Nashor",
+    "Sentinela Roja"
+   ],
+   "a": 2,
+   "h": "Aparece en el río superior"
+  },
+  {
+   "q": "¿Qué monstruo del río puede invocarse para cargar contra las torres?",
+   "o": [
+    "Barón Nashor",
+    "Heraldo de la Grieta",
+    "Gromp",
+    "Krugs"
+   ],
+   "a": 1,
+   "h": "Se invoca con un ojo"
+  },
+  {
+   "q": "¿Cuál de estos NO es un tipo de dragón elemental?",
+   "o": [
+    "Infernal",
+    "Océano",
+    "Montaña",
+    "Eléctrico"
+   ],
+   "a": 3,
+   "h": "No existe el dragón eléctrico"
+  },
+  {
+   "q": "¿Cuántas torres tiene cada equipo en una línea, sin contar las del Nexo?",
+   "o": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "a": 2,
+   "h": "Exterior, interior e inhibidor"
+  },
+  {
+   "q": "¿Qué ocurre al destruir un inhibidor?",
+   "o": [
+    "Se acaba la partida",
+    "Aparecen súbditos super",
+    "El Barón desaparece",
+    "Se pierde el oro"
+   ],
+   "a": 1,
+   "h": "Son más fuertes que los normales"
+  },
+  {
+   "q": "¿Qué objeto revive a su portador al morir?",
+   "o": [
+    "Reloj de Arena de Zhonya",
+    "Ángel Guardián",
+    "Banshee",
+    "Manto de Fuego"
+   ],
+   "a": 1,
+   "h": "En inglés es Guardian Angel"
+  },
+  {
+   "q": "¿Qué objeto da invulnerabilidad durante unos segundos pero impide actuar?",
+   "o": [
+    "Reloj de Arena de Zhonya",
+    "Filo del Infinito",
+    "Zapatos de Mercurio",
+    "Sombrero de Rabadon"
+   ],
+   "a": 0,
+   "h": "Un reloj de arena"
+  },
+  {
+   "q": "¿Cómo se llama el modo 5 contra 5 con tres líneas?",
+   "o": [
+    "ARAM",
+    "Teamfight Tactics",
+    "Grieta del Invocador",
+    "Arena"
+   ],
+   "a": 2,
+   "h": "Es el mapa principal"
+  },
+  {
+   "q": "¿Qué buff da el monstruo rojo?",
+   "o": [
+    "Maná extra",
+    "Quema y ralentiza con ataques básicos",
+    "Escudo inicial",
+    "Visión adicional"
+   ],
+   "a": 1,
+   "h": "Hace daño con quemadura"
+  },
+  {
+   "q": "¿Cómo se llama la zona de la base donde reapareces y te curas?",
+   "o": [
+    "Fuente",
+    "Nexo",
+    "Torre",
+    "Inhibidor"
+   ],
+   "a": 0,
+   "h": "Brilla con un efecto curativo"
+  }
+ ]
+}
